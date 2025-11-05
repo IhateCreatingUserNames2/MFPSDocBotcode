@@ -3,6 +3,10 @@
 An intelligent documentation assistant for MFPS 2.0 (Multiplayer First Person Shooter framework). This chatbot provides technical answers about the codebase architecture, implementation patterns, and best practices by analyzing the complete Unity C# codebase.
 
 ** Use this at your Own Risk. It is running on OpenRouter Gemini Free Keys. This was made by a User of MFPS, not a developer from MFPS. It has nothing to do with Lovatto Studios.  ** 
+
+** This project folder DOES NOT HAVE THE MFPS CODEBASE , you have to extract it by yourself. Use the Python Code CodeUNity.py to extract it from your MFPS Files. ** 
+
+
 ## Features
 
 - 🔍 **Deep Codebase Analysis**: Loads 600k+ tokens of MFPS 2.0 source code
